@@ -15,4 +15,5 @@ function add(a, b) {
         return 0
     }
 }
-console.log(add(a: 1), "输出结果为NaN");
+console.log(add(a: 1), "输出结果为NaN")
+console.log("成功了");
